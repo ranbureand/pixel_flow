@@ -20,5 +20,7 @@ In order to use it:
 1. repeat step 4. and 5. to generate and save as many new images as you would like (new images are named incrementally in the context of a single session)
 
 ![Pixel-flow output image](outputs/image_1.png)
+
 ![Pixel-flow output image](outputs/image_2.png)
+
 ![Pixel-flow output image](outputs/image_3.png)
